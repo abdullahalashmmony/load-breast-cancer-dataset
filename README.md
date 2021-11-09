@@ -1,2 +1,2 @@
 # load-breast-cancer-dataset
-using the load breast cancer form sklearn.datasets.
+use sklearn.datasets to load breast cancer dataset. then apply the Naive Bayes and PCA.
